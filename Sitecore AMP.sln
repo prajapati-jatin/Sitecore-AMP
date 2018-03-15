@@ -5,6 +5,7 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{6B8ABAD6-456C-47EE-8F28-DA8D20498E93}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		gulp-config.js = gulp-config.js
 		gulpfile.js = gulpfile.js
 		nuget.config = nuget.config
