@@ -1,0 +1,18 @@
+﻿---
+ID: "044dc081-bb8a-4f29-90aa-718046fffc45"
+Parent: "0aa7a64e-1357-4610-89f3-ac51d89cf908"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/AMP/_AMP/AMP
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180228T155204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

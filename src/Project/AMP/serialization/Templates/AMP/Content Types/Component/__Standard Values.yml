@@ -1,0 +1,22 @@
+﻿---
+ID: "96a517f9-d744-4a80-9a24-633172281169"
+Parent: "6241daba-f7a5-4348-88c3-0c5f3e46c75e"
+Template: "6241daba-f7a5-4348-88c3-0c5f3e46c75e"
+Path: /sitecore/templates/Project/AMP/Content Types/Component/__Standard Values
+DB: master
+SharedFields:
+- ID: "aed73e3c-9ef3-4e86-8b3b-02ba3eb66a46"
+  Hint: Name
+  Value: $name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180314T165600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{6B8ABAD6-456C-47EE-8F28-DA8D20498E93}"
+	ProjectSection(SolutionItems) = preProject
+		gulp-config.js = gulp-config.js
+		gulpfile.js = gulpfile.js
+		nuget.config = nuget.config
+		package.json = package.json
+		publishsettings.targets.sample = publishsettings.targets.sample
+		publishsettings.targets.user = publishsettings.targets.user
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{0E9EC9DF-F725-4F9F-8A9C-C74642FE7388}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{D4C13166-F6B1-49CE-B7E5-F7783AB530CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{C46F1EF6-39B6-4135-997E-CBA4E7CC2224}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{F04A0E7B-2521-4CEF-B0C6-31271674EFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.AMP.Foundation.Serialization", "src\Foundation\Serialization\code\Sitecore.AMP.Foundation.Serialization.csproj", "{CB79AD6A-60E0-47D2-9938-316202EBD772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AMP", "AMP", "{3C0EBE1F-3988-46B3-A1BA-53DA675466FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.AMP.Website", "src\Project\AMP\code\Sitecore.AMP.Website.csproj", "{5938C8EA-1361-4E8C-80BF-A37F4E253124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AMP", "AMP", "{357A54D8-DA87-4E7F-BD38-70AA956047AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.AMP", "src\Foundation\AMP\code\Sitecore.Foundation.AMP.csproj", "{154ED8F3-339E-4E99-AAED-C8B54FCC4366}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multisite", "Multisite", "{4E0AA86A-8645-4D07-8610-6371C4607CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Multisite", "src\Foundation\Multisite\code\Sitecore.Foundation.Multisite.csproj", "{43EE2444-F215-4F57-A915-968665990F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB79AD6A-60E0-47D2-9938-316202EBD772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB79AD6A-60E0-47D2-9938-316202EBD772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB79AD6A-60E0-47D2-9938-316202EBD772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB79AD6A-60E0-47D2-9938-316202EBD772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5938C8EA-1361-4E8C-80BF-A37F4E253124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5938C8EA-1361-4E8C-80BF-A37F4E253124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5938C8EA-1361-4E8C-80BF-A37F4E253124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5938C8EA-1361-4E8C-80BF-A37F4E253124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154ED8F3-339E-4E99-AAED-C8B54FCC4366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154ED8F3-339E-4E99-AAED-C8B54FCC4366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154ED8F3-339E-4E99-AAED-C8B54FCC4366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154ED8F3-339E-4E99-AAED-C8B54FCC4366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EE2444-F215-4F57-A915-968665990F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EE2444-F215-4F57-A915-968665990F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EE2444-F215-4F57-A915-968665990F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EE2444-F215-4F57-A915-968665990F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F04A0E7B-2521-4CEF-B0C6-31271674EFE3} = {0E9EC9DF-F725-4F9F-8A9C-C74642FE7388}
+		{CB79AD6A-60E0-47D2-9938-316202EBD772} = {F04A0E7B-2521-4CEF-B0C6-31271674EFE3}
+		{3C0EBE1F-3988-46B3-A1BA-53DA675466FA} = {D4C13166-F6B1-49CE-B7E5-F7783AB530CE}
+		{5938C8EA-1361-4E8C-80BF-A37F4E253124} = {3C0EBE1F-3988-46B3-A1BA-53DA675466FA}
+		{357A54D8-DA87-4E7F-BD38-70AA956047AF} = {0E9EC9DF-F725-4F9F-8A9C-C74642FE7388}
+		{154ED8F3-339E-4E99-AAED-C8B54FCC4366} = {357A54D8-DA87-4E7F-BD38-70AA956047AF}
+		{4E0AA86A-8645-4D07-8610-6371C4607CB8} = {0E9EC9DF-F725-4F9F-8A9C-C74642FE7388}
+		{43EE2444-F215-4F57-A915-968665990F67} = {4E0AA86A-8645-4D07-8610-6371C4607CB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282FBCDC-4AE1-4F4F-A7A6-D864AB3469BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿---
+ID: "86b01d50-25b1-4536-a9ba-62f9cc310b81"
+Parent: "737afa9b-d134-4858-80cc-d6b3c2ca6362"
+Template: "737afa9b-d134-4858-80cc-d6b3c2ca6362"
+Path: /sitecore/templates/Project/AMP/Content Types/Components Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6241DABA-F7A5-4348-88C3-0C5F3E46C75E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180314T165833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

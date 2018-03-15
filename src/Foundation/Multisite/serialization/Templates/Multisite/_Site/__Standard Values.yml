@@ -1,0 +1,18 @@
+﻿---
+ID: "4382779a-bf39-43ed-a830-7c586d035694"
+Parent: "7817655a-1c14-4be4-8296-e6e1e9ab8f9b"
+Template: "7817655a-1c14-4be4-8296-e6e1e9ab8f9b"
+Path: /sitecore/templates/Foundation/Multisite/_Site/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180216T174540Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

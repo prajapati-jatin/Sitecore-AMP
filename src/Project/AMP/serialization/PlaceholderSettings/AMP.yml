@@ -1,0 +1,14 @@
+﻿---
+ID: "79667c9f-09d4-4fa4-9c3b-0924186a151c"
+Parent: "57a34c59-2b42-43e0-a7b1-3e0af3185fdd"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/AMP
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180216T175513Z
